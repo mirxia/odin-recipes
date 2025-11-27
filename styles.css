@@ -1,0 +1,19 @@
+html {
+    box-sizing: border-box;
+    background-color: ivory;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    color: darkslategray;
+}
+
+li {
+    margin: 10px auto;
+}
