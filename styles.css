@@ -17,3 +17,17 @@ body {
 li {
     margin: 10px auto;
 }
+
+.nav-link {
+    text-decoration: none;
+    padding: 15px;
+    background-color: gold;
+    color: darkslategray;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    transition: 500ms;
+    background-color: goldenrod;
+    color: ghostwhite;
+}
