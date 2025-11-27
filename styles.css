@@ -39,3 +39,13 @@ li {
     background-color: goldenrod;
     color: ghostwhite;
 }
+
+.recipe.link {
+    padding: 5px;
+}
+
+.recipe.link:hover {
+    transition: 500ms;
+    background-color: gold;
+    color: darkslategray;
+}
